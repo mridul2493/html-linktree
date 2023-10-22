@@ -1,0 +1,170 @@
+body{
+    background-color: #254F1A;
+}
+#div1{
+    height: 60px;
+    width: 1150px;
+    background-color: white;
+    position: fixed;
+    top: 30px;
+    left: 30px;
+    border-radius: 100px;
+    padding: 20px;
+}
+#logo{
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    top: 60px;
+    left: 65px;
+}
+#templates{
+    color: gray;
+    text-decoration: none;
+    position: fixed;
+    top: 70px;
+    left: 140px;
+}
+#marketplace{
+    color: gray;
+    text-decoration: none;
+    position: fixed;
+    top: 70px;
+    left: 250px;
+}
+#discover{
+    color: gray;
+    text-decoration: none;
+    position: fixed;
+    top: 70px;
+    left: 375px;
+}
+#pricing{
+    color: gray;
+    text-decoration: none;
+    position: fixed;
+    top: 70px;
+    left: 480px;
+}
+#learn{
+    color: gray;
+    text-decoration: none;
+    position: fixed;
+    top: 70px;
+    left: 585px;
+}
+#learn:hover{
+    color: blue;
+}
+#pricing:hover{
+    color: blue;
+}
+#discover:hover{
+    color: blue;
+}
+#marketplace:hover{
+    color: blue;
+}
+#templates:hover{
+    color: blue;
+}
+/* #divlog{
+    background-color: rgb(224, 222, 222);
+    height: 50px;
+    padding: 10px;
+    width: 90px;
+    position: fixed;
+    top: 56px;
+    left: 928px;
+    border-radius: 8px;
+} */
+#login{
+    color: rgb(84, 84, 84);
+    height: 25px;
+    width: 50px;
+    padding: 10px 10px;
+    text-decoration: none;
+    position: fixed;
+    top: 60px;
+    left: 950px;
+    border-radius: 8px;
+    background-color: rgb(224, 222, 222);
+}
+#login:hover{
+    color: white;
+    background-color: black;
+}
+#signupfree{
+    background-color: rgb(5, 5, 55);
+    color: white;
+    height: 28px;
+    width: 80px;
+    padding: 10px 20px;
+    text-decoration: none;
+    position: fixed;
+    top: 58px;
+    left: 1060px;
+    border-radius: 90px;
+}
+#signupfree:hover{
+    background-color: rgb(224, 222, 222);
+    color: rgb(5, 5, 55);
+}
+#div21{
+    color: rgb(210, 232, 35);
+    font-family: "Link Sans", "Arial Black", Arial, sans-serif;
+    font-size: clamp(32px, 8.5vmin, 88px);
+    font-weight: 820;
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+    position: relative;
+    top: 180px;
+    left: 40px;
+}
+#div22{
+    color: rgb(210, 232, 35);
+    font-family: "Link Sans", "Arial Black", Arial, sans-serif;
+    font-size: clamp(16px, 2vmin, 20px);
+    font-weight: 418;
+    letter-spacing: -0.02em;
+    line-height: 1.5;
+    position: relative;
+    top: 210px;
+    left: 40px;
+}
+#div4{
+    float: right;
+    position: absolute;
+    top: 140px;
+    left: 780px;
+}
+#placeholder{
+    text-decoration: none;
+    border: 0px;
+    height: 45px;
+    width: 165px;
+    padding: 10px;
+    border-radius: 9px;
+    position: relative;
+    top: 250px;
+    left: 40px;
+}
+#Claim{
+    color: black;
+    background-color: rgb(241, 186, 195);
+    height: 200px;
+    width: 100px;
+    padding: 16px;
+    text-decoration: none;
+    border-radius: 20px;
+    position: relative;
+    top: 204px;
+    left: 280px;
+}
+#Claim:hover{
+    color: rgb(241, 186, 195);
+    background-color: black;
+}
+#video{
+    border: 0px;
+}
